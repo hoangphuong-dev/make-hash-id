@@ -1,0 +1,22 @@
+{
+    "name": "phuonght/make-hash-id",
+    "description": "Tạo hash id",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "hash-id"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MakeHashId\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hoàng Trọng Phương",
+            "email": "hoangphuong.work01@gmail.com"
+        }
+    ],
+    "require": {}
+}
