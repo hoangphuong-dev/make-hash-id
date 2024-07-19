@@ -1,6 +1,6 @@
 <?php
 
-namespace MakeHashId;
+namespace Hash;
 
 use AllowDynamicProperties;
 use Exception;
